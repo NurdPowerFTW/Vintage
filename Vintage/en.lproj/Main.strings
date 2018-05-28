@@ -1,0 +1,279 @@
+
+/* Class = "UILabel"; text = "我的好禮"; ObjectID = "0A5-EC-bYK"; */
+"0A5-EC-bYK.text" = "My Gifts";
+
+/* Class = "UIButton"; normalTitle = "我要兌換"; ObjectID = "0Xm-En-xMQ"; */
+"0Xm-En-xMQ.normalTitle" = "Redeem";
+
+/* Class = "UIButton"; normalTitle = "以 Facebook 帳號登入"; ObjectID = "2RY-p9-VbD"; */
+"2RY-p9-VbD.normalTitle" = "Login with Facebook";
+
+/* Class = "UILabel"; text = "最新活動"; ObjectID = "3KS-NB-fwX"; */
+"3KS-NB-fwX.text" = "Events";
+
+/* Class = "UIButton"; normalTitle = "確定"; ObjectID = "3ke-sQ-lGQ"; */
+"3ke-sQ-lGQ.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "我的好禮"; ObjectID = "43x-Q7-9uv"; */
+"43x-Q7-9uv.text" = "My Gifts";
+
+/* Class = "UILabel"; text = "註冊"; ObjectID = "4fy-bn-dgV"; */
+"4fy-bn-dgV.text" = "Register";
+
+/* Class = "UILabel"; text = "我的帳號"; ObjectID = "5Qx-Qe-lZk"; */
+"5Qx-Qe-lZk.text" = "My Account";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "5ul-bG-9fB"; */
+"5ul-bG-9fB.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UITextField"; placeholder = "收件人電話"; ObjectID = "6rQ-xJ-WlC"; */
+"6rQ-xJ-WlC.placeholder" = "Recipent Phone";
+
+/* Class = "UILabel"; text = "首頁"; ObjectID = "7da-Ka-Uuu"; */
+"7da-Ka-Uuu.text" = "Home";
+
+/* Class = "UILabel"; text = "分享您最愛的資訊，即可獲得拉罷點數"; ObjectID = "7eL-Bj-Aao"; */
+"7eL-Bj-Aao.text" = "Share your favorite information to get points";
+
+/* Class = "UIButton"; normalTitle = "確定"; ObjectID = "7w2-Fj-7m3"; */
+"7w2-Fj-7m3.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "篩選"; ObjectID = "88G-be-C0H"; */
+"88G-be-C0H.text" = "Filter";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "8aS-67-YAT"; */
+"8aS-67-YAT.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "995-NF-Ik7"; */
+"995-NF-Ik7.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "確定"; ObjectID = "9Ib-Vz-YHM"; */
+"9Ib-Vz-YHM.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "刪除"; ObjectID = "9eJ-h0-UPm"; */
+"9eJ-h0-UPm.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "答題拿點數"; ObjectID = "9p5-M0-VYt"; */
+"9p5-M0-VYt.text" = "Quiz";
+
+/* Class = "UILabel"; text = "店家兌換"; ObjectID = "9ze-AR-Kuo"; */
+"9ze-AR-Kuo.text" = "Retailer redeem";
+
+/* Class = "UILabel"; text = "獲得分享點數100點！"; ObjectID = "B60-XW-uA1"; */
+"B60-XW-uA1.text" = "獲得分享點數100點！";
+
+/* Class = "UITextField"; placeholder = "收件人姓名"; ObjectID = "BKY-zU-RKb"; */
+"BKY-zU-RKb.placeholder" = "Recipent name";
+
+/* Class = "UIButton"; normalTitle = "註冊"; ObjectID = "Bpj-aZ-rbj"; */
+"Bpj-aZ-rbj.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "C0e-MG-Cj8"; */
+"C0e-MG-Cj8.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UILabel"; text = "行動侍酒師"; ObjectID = "CAF-o0-rH8"; */
+"CAF-o0-rH8.text" = "Sommelier";
+
+/* Class = "UILabel"; text = "我的好禮"; ObjectID = "COb-9C-rFc"; */
+"COb-9C-rFc.text" = "My Gifts";
+
+/* Class = "UIButton"; normalTitle = "以 微博 帳號登入"; ObjectID = "Dj0-5W-rdS"; */
+"Dj0-5W-rdS.normalTitle" = "Login with Weibo";
+
+/* Class = "UILabel"; text = "分享賺點數"; ObjectID = "DkV-Dh-Pw4"; */
+"DkV-Dh-Pw4.text" = "Share your favorite information to get points";
+
+/* Class = "UILabel"; text = "我要詢問"; ObjectID = "Fuk-yc-uVJ"; */
+"Fuk-yc-uVJ.text" = "Inquiry";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "HUw-5F-6T7"; */
+"HUw-5F-6T7.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "HkV-Jl-Ebz"; */
+"HkV-Jl-Ebz.text" = "My Favorite";
+
+/* Class = "UIButton"; normalTitle = "微博"; ObjectID = "I6O-UL-UwE"; */
+"I6O-UL-UwE.normalTitle" = "Weibo";
+
+/* Class = "UILabel"; text = "Input redeem code"; ObjectID = "Iig-Dj-rrC"; */
+"Iig-Dj-rrC.text" = "Input redeem code";
+
+/* Class = "UILabel"; text = "Share for points"; ObjectID = "JpA-XE-Awk"; */
+"JpA-XE-Awk.text" = "Share for points";
+
+/* Class = "UILabel"; text = "成功加入收藏！"; ObjectID = "KYS-OS-epL"; */
+"KYS-OS-epL.text" = "Added to my favorite!!";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "L7N-Jv-rTR"; */
+"L7N-Jv-rTR.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "微博"; ObjectID = "LIl-aj-lTH"; */
+"LIl-aj-lTH.normalTitle" = "Weibo";
+
+/* Class = "UIButton"; normalTitle = "立即兌換"; ObjectID = "Mmn-If-Ky7"; */
+"Mmn-If-Ky7.normalTitle" = "Online redeem";
+
+/* Class = "UILabel"; text = "答題拿點數"; ObjectID = "NDi-Ng-gxU"; */
+"NDi-Ng-gxU.text" = "Quiz";
+
+/* Class = "UILabel"; text = "每日限定三題快來賺點數吧!"; ObjectID = "NnS-ZX-5uC"; */
+"NnS-ZX-5uC.text" = "3 questions for each day. Earn points now!";
+
+/* Class = "UILabel"; text = "分享您最愛的資訊，即可獲得拉霸點數"; ObjectID = "NnT-Hi-hsz"; */
+"NnT-Hi-hsz.text" = "Share your favorite information to get points";
+
+/* Class = "UILabel"; text = "成功加入收藏！"; ObjectID = "OFp-01-Tqp"; */
+"OFp-01-Tqp.text" = "Added to my favorite!!";
+
+/* Class = "UIButton"; normalTitle = "兌換"; ObjectID = "OGZ-Im-cUu"; */
+"OGZ-Im-cUu.normalTitle" = "Redeem";
+
+/* Class = "UITextField"; placeholder = "Input redeem code"; ObjectID = "OT3-vr-MYv"; */
+"OT3-vr-MYv.placeholder" = "Input redeem code";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PrE-MP-tTz"; */
+"PrE-MP-tTz.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "QYx-3i-qXG"; */
+"QYx-3i-qXG.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "布魯斯可 紅葡萄酒"; ObjectID = "Rvy-vj-BrZ"; */
+"Rvy-vj-BrZ.text" = "布魯斯可 紅葡萄酒";
+
+/* Class = "UIButton"; normalTitle = "開始"; ObjectID = "TZc-Xe-8eR"; */
+"TZc-Xe-8eR.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "篩選"; ObjectID = "UNi-Z3-vtA"; */
+"UNi-Z3-vtA.text" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UqF-pz-CjL"; */
+"UqF-pz-CjL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "W2S-Ub-CN4"; */
+"W2S-Ub-CN4.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UIButton"; normalTitle = "微博"; ObjectID = "XiS-uj-zoj"; */
+"XiS-uj-zoj.normalTitle" = "Weibo";
+
+/* Class = "UIButton"; normalTitle = "歷史紀錄"; ObjectID = "XlA-5L-YXY"; */
+"XlA-5L-YXY.normalTitle" = "History";
+
+/* Class = "UILabel"; text = "或使用電子郵件帳號登入"; ObjectID = "Ydp-Jo-haz"; */
+"Ydp-Jo-haz.text" = "Or login with E-mail";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "Z1R-NY-are"; */
+"Z1R-NY-are.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZRp-yp-96a"; */
+"ZRp-yp-96a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "ZkY-ug-jK3"; */
+"ZkY-ug-jK3.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a3v-5K-gCP"; */
+"a3v-5K-gCP.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "確定"; ObjectID = "aLI-Xn-LC5"; */
+"aLI-Xn-LC5.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "店家兌換"; ObjectID = "bBZ-dD-HiX"; */
+"bBZ-dD-HiX.normalTitle" = "Retailer redeem";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "biq-L4-Wib"; */
+"biq-L4-Wib.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "c4H-bl-iK4"; */
+"c4H-bl-iK4.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Fill in Recipient Information"; ObjectID = "cU0-ma-GvR"; */
+"cU0-ma-GvR.text" = "Fill in Recipient Information";
+
+/* Class = "UILabel"; text = "行動侍酒師"; ObjectID = "cf8-k7-JQG"; */
+"cf8-k7-JQG.text" = "Sommelier";
+
+/* Class = "UILabel"; text = "獲得點數"; ObjectID = "e7V-uF-6HP"; */
+"e7V-uF-6HP.text" = "Got points!!";
+
+/* Class = "UILabel"; text = "篩選"; ObjectID = "fU0-Q4-oBe"; */
+"fU0-Q4-oBe.text" = "Filter";
+
+/* Class = "UILabel"; text = " 點"; ObjectID = "fW0-5L-BPE"; */
+"fW0-5L-BPE.text" = " point(s)";
+
+/* Class = "UILabel"; text = "拉霸A好康"; ObjectID = "gHr-dz-brn"; */
+"gHr-dz-brn.text" = "Slot Machine";
+
+/* Class = "UILabel"; text = "附近店家"; ObjectID = "gKm-Af-VSk"; */
+"gKm-Af-VSk.text" = "Stores";
+
+/* Class = "UILabel"; text = "立即兌換"; ObjectID = "gLh-GL-GHO"; */
+"gLh-GL-GHO.text" = "Online redeem";
+
+/* Class = "UILabel"; text = "每次拉霸需花費 100 點"; ObjectID = "huA-Hn-ciz"; */
+"huA-Hn-ciz.text" = "Play once for 100 points";
+
+/* Class = "UILabel"; text = "我要重測"; ObjectID = "jd6-Qd-1P8"; */
+"jd6-Qd-1P8.text" = "Do it again";
+
+/* Class = "UILabel"; text = "重測行動侍酒師功能"; ObjectID = "kY5-HV-39q"; */
+"kY5-HV-39q.text" = "Recommend for me again";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "lNS-FZ-4bJ"; */
+"lNS-FZ-4bJ.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "分享賺點數"; ObjectID = "mxa-HZ-CzN"; */
+"mxa-HZ-CzN.text" = "Share for points";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "nIK-1m-Cd4"; */
+"nIK-1m-Cd4.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UILabel"; text = "分享您最愛的資訊，即可獲得拉霸點數"; ObjectID = "nfy-V7-VZf"; */
+"nfy-V7-VZf.text" = "Share your favorite information to get points";
+
+/* Class = "UILabel"; text = "搜尋結果"; ObjectID = "pLj-DP-u2p"; */
+"pLj-DP-u2p.text" = "Search result";
+
+/* Class = "UILabel"; text = "您的點數有"; ObjectID = "pOy-WA-2Ut"; */
+"pOy-WA-2Ut.text" = "You got";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "prk-7n-Ohm"; */
+"prk-7n-Ohm.text" = "Events";
+
+/* Class = "UILabel"; text = "Stores"; ObjectID = "rEt-GJ-M2z"; */
+"rEt-GJ-M2z.text" = "Stores";
+
+/* Class = "UIButton"; normalTitle = "登出"; ObjectID = "rrU-uY-q6a"; */
+"rrU-uY-q6a.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "兌換"; ObjectID = "rvP-lk-A91"; */
+"rvP-lk-A91.normalTitle" = "Redeem";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "slK-cH-yCe"; */
+"slK-cH-yCe.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UITextField"; placeholder = "好禮寄送地址"; ObjectID = "sxf-lt-guj"; */
+"sxf-lt-guj.placeholder" = "Recipent address";
+
+/* Class = "UILabel"; text = "依您的喜好作答我們將推薦適合您的酒款"; ObjectID = "t9I-nD-aLv"; */
+"t9I-nD-aLv.text" = "Answer 3 questions. We will recommend wine for you";
+
+/* Class = "UIButton"; normalTitle = "confrim"; ObjectID = "uEn-XL-Srx"; */
+"uEn-XL-Srx.normalTitle" = "confrim";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "uhW-UL-qhw"; */
+"uhW-UL-qhw.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "飲酒過量 有害健康・禁止酒駕"; ObjectID = "v3b-a3-EnC"; */
+"v3b-a3-EnC.text" = "飲酒過量 有害健康・禁止酒駕";
+
+/* Class = "UILabel"; text = "商品篩選"; ObjectID = "xXK-YD-Mg3"; */
+"xXK-YD-Mg3.text" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "xfw-Jy-fbU"; */
+"xfw-Jy-fbU.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "重設密碼"; ObjectID = "xmd-A3-IlS"; */
+"xmd-A3-IlS.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "忘記密碼"; ObjectID = "yR6-lU-2fE"; */
+"yR6-lU-2fE.text" = "Forget Password";

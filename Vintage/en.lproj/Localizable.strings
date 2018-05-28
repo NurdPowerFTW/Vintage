@@ -1,0 +1,173 @@
+/* 
+  Localizable.strings
+  Vintage
+
+  Created by Will Tang on 7/10/15.
+  Copyright (c) 2015 Moska Studio. All rights reserved.
+*/
+
+//首頁
+"新品上市" = "Newest";
+"火熱新鮮上架" = "New wine for you";
+"行家推薦" = "Recommend";
+"口碑珍藏好酒" = "Our best picks";
+"熱門排行" = "Bestsellers";
+"暢銷熱賣酒款" = "Hot sales";
+"當季精選" = "Seasonal";
+"季節限定推薦" = "Top seasonal wine";
+"送禮推薦" = "Gift";
+"佳節精選禮盒" = "Perfect for gifts";
+"好酒總覽" = "All Wine";
+"泰豐嚴選美酒" = "Best from Vintage";
+"飲酒過量 有害健康・禁止酒駕" = "飲酒過量 有害健康・禁止酒駕";
+
+//側邊欄
+"MENU" = "MENU";
+"首頁" = "Home";
+"行動侍酒師" = "Sommelier";
+"附近店家" = "Stores";
+"最新活動" = "Events";
+"我的收藏" = "My Favorite";
+"答題拿點數" = "Quiz";
+"拉霸A好康" = "Slot Machine";
+"我的好禮" = "My Gifts";
+"我的帳號" = "My Account";
+
+
+//單項商品
+"輸入您的信箱或電話" = "Leave your mail or phone";
+"輸入留言與建議" = "Leave your message and advice";
+"每樣商品只能獲得一次分享點數" = "You have got the points before";
+"確定" = "Confirm";
+"留言發送成功" = "Message sent";
+"留言發送失敗" = "Message not sent";
+"請重試" = "Please try again";
+"成功取消收藏" = "Removed from favorite!";
+"成功加入收藏" = "Added to favorite!!";
+"酒廠介紹" = "Manufacture";
+"獲得分享點數%@點" = "Got %@ Points";
+"聯絡方式或留言不可為空" = "Please enter your request";
+"請先登入" = "Please Login First";
+"登入後才能使用此功能" = "Login required for this feature";
+
+//附近店家
+"全部店家" = "All Stores";
+"此區域無商店" = "There is no store in this region";
+"關於" = "About";
+"服務地址" = "Store Address";
+"服務電話" = "Store Phone";
+"服務時間" = "Office Hour";
+"電子信箱" = "Email";
+
+
+//店家兌換
+"活動內容" = "Event Detail";
+"活動地址" = "Event Address";
+"活動電話" = "Event Phone";
+"活動時間" = "Event Date";
+"注意事項" = "Event Notice";
+"店家兌換獎品成功" = "Gift redeemed successfully";
+"直接跟店家領取" = "get your gift from retailer";
+"店家兌換獎品失敗" = "Redeemed failed";
+"密碼錯誤" = "wrong password";
+"立即兌換獎品成功" = "Gift online redeemed successfully";
+"將會直接寄送給您" = "gift will be sending to you";
+"請輸入完整收件資訊" = "Please complete your input";
+"" = "";
+
+//登入
+"以 Facebook 帳號登入" = "Login with Facebook";
+"以 微博 帳號登入" = "Login with Weibo";
+"微博" = "Weibo";
+"或使用電子郵件帳號登入" = "Or login with Email";
+"您目前以 %@ 登入" = "You are logged in by %@";
+"信箱" = "Email";
+"密碼" = "Password";
+"登入" = "Login";
+"登出" = "Logout";
+"我要註冊" = "Register";
+"忘記密碼" = "Forgot";
+"確認密碼" = "Confirm Password";
+"註冊" = "Register";
+"姓名" = "Name";
+"重設密碼" = "Reset password";
+"登入失敗" = "Login failed";
+"此帳號不存在" = "Account does not exist";
+"密碼錯誤" = "Incorrect Password";
+"請輸入完整資訊" = "You have to fill in all the blanks";
+"此帳號已經存在" = "Account already existed";
+"註冊成功" = "Register successfully";
+"請確認密碼是否一致" = "New password is not the same";
+"資訊不完整" = "You have to fill in all the blanks";
+"請完整輸入所有欄位" = "You have to fill in all the blanks";
+"重設密碼信件已經寄出" = "Reset password mail has been sent";
+"請輸入註冊信箱" = "Please enter email account";
+"請先登入" = "Please Login First";
+"登入後才能使用此功能" = "Login required for this feature";
+
+//篩選
+"請至少選擇一種酒類" = "Please choose at least one region";
+"請至少選擇一個產地" = "Please choose at least one kind of wine";
+"商品價格" = "Sort By";
+"酒類選擇" = "Wine Type";
+"產地" = "Region";
+"瀏覽全部商品" = "View All";
+"依酒類排序" = "Wine Type";
+"價格由高至低排序" = "Price Descending";
+"價格由低至高排序" = "Price Ascending";
+"紅葡萄酒" = "Red Wine";
+"白葡萄酒" = "White Wine";
+"汽泡酒" = "Sparkling Wine";
+"香檳" = "Champagne";
+"威士忌" = "Whiskey";
+"伏特加" = "Vodka";
+"瓶裝水" = "Bottled Water";
+"氣泡水" = "Sparkling Water";
+"粉红酒" = "Rose Wine";
+"甜白酒" = "Sweet White Wine";
+"甜紅酒" = "Sweet Red Wine";
+"水果酒" = "Fruit Wine";
+"冰酒" = "Ice Wine";
+"法國" = "France";
+"義大利" = "Italy";
+"紐西蘭" = "New Zealand";
+"美國加州" = "California(US)";
+"西班牙" = "Spain";
+"智利" = "Chili";
+"加拿大" = "Canada";
+"清除搜尋歷史紀錄" = "Clear search history";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+"" = "";
+//最新活動
+"每個活動只能獲得一次分享點數" = "You have got the points before";
+//連線狀態
+"無法連線" = "No Connection";
+"請檢查您的網路狀態" = "Check your internet connection";
+"重新連線" = "Reconnect";
+"" = "";
+"" = "";
+//行動侍酒師
+"行動侍酒師" = "Sommelier";
+"依您的喜好作答我們將推薦適合您的酒款" = "Answer 3 questions. We will recommend wine for you";
+
+//拉霸
+" 點" = " Points";
+"趕快分享文章收集點數吧" = "Share your favorite information to get points";
+"獲得%@" = "Won %@";
+"請至我的好禮查詢" = "Check gift detail in My Gifts";
+"您的點數不足" = "Points are not enough";
+
+//答題
+"本日問題已全數回答完畢" = "All questions were done";
+"請明日繼續挑戰!" = "Come back tomorrow!";
+"每日限定三題" = "3 questions for each day";
+"快來賺點數吧!" = "Earn points now!";
+"返回" = "Return";
+"恭喜你" = "Congratulation";
+"獲得點數" = "Got Point";
+"獲得答題點數!" = "Got 30 Point";
+"答案不正確" = "Incorrect";
+"答案不正確喔，請再試一次" = "Incorrect answer, try again";

@@ -1,0 +1,16 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+pod 'AFNetworking'
+pod 'GVPhotoBrowser'
+pod 'iOS-Slide-Menu'
+pod 'Facebook-iOS-SDK'
+pod 'JSONKit-NoWarning'
+pod 'HexColors'
+pod 'CNPPopupController','~> 0.1.2'
+pod 'SDWebImage', '~> 3.7.0'
+pod 'SVPullToRefresh'
+pod 'WeiboSDK', :podspec => 'https://raw.github.com/sinaweibosdk/weibo_ios_sdk/master/WeiboSDK.podspec'
+pod 'RPFloatingPlaceholders'
+pod 'SCLAlertView-Objective-C'
+pod 'DGActivityIndicatorView'

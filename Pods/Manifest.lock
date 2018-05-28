@@ -1,0 +1,94 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Bolts (1.2.0):
+    - Bolts/AppLinks
+    - Bolts/Tasks
+  - Bolts/AppLinks (1.2.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.2.0)
+  - CNPPopupController (0.1.2)
+  - DGActivityIndicatorView (1.0)
+  - Facebook-iOS-SDK (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit
+    - Facebook-iOS-SDK/LoginKit
+    - Facebook-iOS-SDK/ShareKit
+  - Facebook-iOS-SDK/CoreKit (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit/no-arc
+  - Facebook-iOS-SDK/CoreKit/no-arc (4.1.0):
+    - Bolts (~> 1.1)
+  - Facebook-iOS-SDK/LoginKit (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit
+  - Facebook-iOS-SDK/ShareKit (4.1.0):
+    - Bolts (~> 1.1)
+    - Facebook-iOS-SDK/CoreKit
+  - GVPhotoBrowser (0.9.0)
+  - HexColors (2.3.0)
+  - iOS-Slide-Menu (1.4.6)
+  - JSONKit-NoWarning (1.2)
+  - RPFloatingPlaceholders (0.3.1)
+  - SCLAlertView-Objective-C (0.7.4)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.3)
+  - SVPullToRefresh (0.4.1)
+  - WeiboSDK (3.1.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CNPPopupController (~> 0.1.2)
+  - DGActivityIndicatorView
+  - Facebook-iOS-SDK
+  - GVPhotoBrowser
+  - HexColors
+  - iOS-Slide-Menu
+  - JSONKit-NoWarning
+  - RPFloatingPlaceholders
+  - SCLAlertView-Objective-C
+  - SDWebImage (~> 3.7.0)
+  - SVPullToRefresh
+  - WeiboSDK (from `https://raw.github.com/sinaweibosdk/weibo_ios_sdk/master/WeiboSDK.podspec`)
+
+EXTERNAL SOURCES:
+  WeiboSDK:
+    :podspec: https://raw.github.com/sinaweibosdk/weibo_ios_sdk/master/WeiboSDK.podspec
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Bolts: d176cb1e0012175589e389a9db49b85e27787576
+  CNPPopupController: 8ce4ccd90287320aaa716c7c06caabda31b844ed
+  DGActivityIndicatorView: 980091f8d8cc647a1af7804660272e64aef9e516
+  Facebook-iOS-SDK: f42dfb27283bf5f05e3a9edc88459a75b9892d99
+  GVPhotoBrowser: eacacc33ce5e099f11caa46bb950b35169e818e1
+  HexColors: 6ad3947c3447a055a3aa8efa859def096351fe5f
+  iOS-Slide-Menu: 3a8b157f87694fce888899f169e05b433575ff90
+  JSONKit-NoWarning: 3d27e6f9e6846ecf741e8c64dcadd7d5aa7193cb
+  RPFloatingPlaceholders: c96a4a8f5f53a63199920dcf8a354435508b1a10
+  SCLAlertView-Objective-C: 15ebfdac06ca289ba1f29fe34b5a03da6bd3fe37
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  WeiboSDK: d9f7060b2843c2fd0eb138860c64aeb4a51bfd03
+
+COCOAPODS: 0.34.1

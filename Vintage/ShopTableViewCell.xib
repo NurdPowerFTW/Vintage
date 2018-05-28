@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="106" id="KGk-i7-Jjw" customClass="ShopTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="106"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KeO-a6-Zf4">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="105"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RSv-2R-gFk">
+                                <rect key="frame" x="184" y="8" width="114" height="89"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ubE-85-6Wm">
+                                        <rect key="frame" x="0.0" y="0.0" width="114" height="89"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="ubE-85-6Wm" secondAttribute="trailing" id="KVN-bb-AaH"/>
+                                    <constraint firstItem="ubE-85-6Wm" firstAttribute="top" secondItem="RSv-2R-gFk" secondAttribute="top" id="hdW-go-vX4"/>
+                                    <constraint firstAttribute="bottom" secondItem="ubE-85-6Wm" secondAttribute="bottom" id="nk8-J1-Uky"/>
+                                    <constraint firstItem="ubE-85-6Wm" firstAttribute="leading" secondItem="RSv-2R-gFk" secondAttribute="leading" id="ysq-r0-cUb"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="centerY" secondItem="RSv-2R-gFk" secondAttribute="centerY" id="PaS-m1-5nI"/>
+                            <constraint firstItem="RSv-2R-gFk" firstAttribute="height" secondItem="KeO-a6-Zf4" secondAttribute="height" multiplier="0.847619" id="VWa-io-K7t"/>
+                            <constraint firstItem="RSv-2R-gFk" firstAttribute="trailing" secondItem="KeO-a6-Zf4" secondAttribute="trailing" multiplier="0.93125" id="WJv-QY-agu"/>
+                            <constraint firstItem="RSv-2R-gFk" firstAttribute="width" secondItem="KeO-a6-Zf4" secondAttribute="width" multiplier="0.35625" id="uAL-l6-myi"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="KeO-a6-Zf4" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="08h-lV-fFI"/>
+                    <constraint firstItem="KeO-a6-Zf4" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="2rL-0h-lfR"/>
+                    <constraint firstAttribute="bottom" secondItem="KeO-a6-Zf4" secondAttribute="bottom" id="Uk5-Xc-EMk"/>
+                    <constraint firstAttribute="trailing" secondItem="KeO-a6-Zf4" secondAttribute="trailing" id="efe-ZD-7Mt"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="photoImageVIew" destination="ubE-85-6Wm" id="CPX-VQ-o0l"/>
+                <outlet property="photoView" destination="RSv-2R-gFk" id="01Z-1h-cM9"/>
+            </connections>
+            <point key="canvasLocation" x="5" y="433"/>
+        </tableViewCell>
+    </objects>
+</document>

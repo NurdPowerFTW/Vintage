@@ -1,0 +1,2 @@
+PODS_WEIBOSDK_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/WeiboSDK/libWeiboSDK"
+PODS_WEIBOSDK_OTHER_LDFLAGS = -l"WeiboSDK" -l"sqlite3" -l"z" -framework "CoreGraphics" -framework "CoreText" -framework "Foundation" -framework "ImageIO" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration" -framework "UIKit"
